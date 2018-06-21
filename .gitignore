@@ -4,7 +4,7 @@
 *.dll
 *.so
 *.dylib
-runecounter3
+runecounter4
 *.swp
 
 # Test binary, build with `go test -c`
